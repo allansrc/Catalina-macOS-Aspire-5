@@ -36,7 +36,7 @@ After installing clover rebuild kext caches and kernel cache then
 ### reboot and enjoy!
 ### Credits:
 
-[Base Mojave EFI Fold] (https://github.com/h-okon/Acer-Aspire-A515-Hackintosh)
+[Base Mojave EFI Fold](https://github.com/h-okon/Acer-Aspire-A515-Hackintosh)
 
 [Clover EFI Bootloader](https://github.com/Clover-EFI-Bootloader/clover)
 
