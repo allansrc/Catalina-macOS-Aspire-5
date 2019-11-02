@@ -5,7 +5,7 @@
 ### >>>:
 * *CPU* : Intel Core i5-8250U (base 1.6GHz, boost 3.6GHz, syntetic load stable 2.4GHz, cinebench 1200pts)
 * *RAM* : 4GB DDR4 unknown soldered onto the motherboard, 4GB DDR4 ADATA 2400MHz 
-* *GPU* : Intel UHD Graphics 620 1536MB / 2048MB
+* *GPU* : Intel UHD Graphics 620 2048MB 
 * *dGPU*: NVidia MX130 2048mb (disabled using DSDT patches)
 * *HDD* : Western Digital Blue 01984 1TB
 * *AUD*: : ALC 255 layout-id: 31 / layout-id: 3 (try both and decide which one is more stable for your setup)
