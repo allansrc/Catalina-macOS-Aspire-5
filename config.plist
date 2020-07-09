@@ -354,7 +354,7 @@
 				<key>hda-gfx</key>
 				<string>onboard-1</string>
 				<key>layout-id</key>
-				<integer>3</integer>
+				<integer>31</integer>
 			</dict>
 		</dict>
 		<key>USB</key>
