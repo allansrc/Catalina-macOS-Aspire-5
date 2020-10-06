@@ -41,9 +41,13 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>SEVDSQ==</data>
+					<data>
+					SEVDSQ==
+					</data>
 					<key>Replace</key>
-					<data>SU1FSQ==</data>
+					<data>
+					SU1FSQ==
+					</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -51,9 +55,13 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>SERBUw==</data>
+					<data>
+					SERBUw==
+					</data>
 					<key>Replace</key>
-					<data>SERFRg==</data>
+					<data>
+					SERFRg==
+					</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -61,9 +69,13 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>TUVJXw==</data>
+					<data>
+					TUVJXw==
+					</data>
 					<key>Replace</key>
-					<data>SU1FSQ==</data>
+					<data>
+					SU1FSQ==
+					</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -71,9 +83,13 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>R0ZYMA==</data>
+					<data>
+					R0ZYMA==
+					</data>
 					<key>Replace</key>
-					<data>SUdQVQ==</data>
+					<data>
+					SUdQVQ==
+					</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -81,9 +97,13 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>UENJMFZJRF8=</data>
+					<data>
+					UENJMFZJRF8=
+					</data>
 					<key>Replace</key>
-					<data>UENJMElHUFU=</data>
+					<data>
+					UENJMElHUFU=
+					</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -91,9 +111,13 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>VklEXwhfQURSDAAAAgA=</data>
+					<data>
+					VklEXwhfQURSDAAAAgA=
+					</data>
 					<key>Replace</key>
-					<data>SUdQVQhfQURSDAAAAgA=</data>
+					<data>
+					SUdQVQhfQURSDAAAAgA=
+					</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -101,9 +125,13 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>RUMwXw==</data>
+					<data>
+					RUMwXw==
+					</data>
 					<key>Replace</key>
-					<data>RUNfXw==</data>
+					<data>
+					RUNfXw==
+					</data>
 				</dict>
 			</array>
 		</dict>
@@ -127,7 +155,7 @@
 	<key>Boot</key>
 	<dict>
 		<key>Arguments</key>
-		<string>dart=0 nv_disable=1 darkwake=no lilucpu=8</string>
+		<string>dart=0 nv_disable=1 -v darkwake=no lilucpu=8</string>
 		<key>DefaultVolume</key>
 		<string>LastBootedVolume</string>
 		<key>DisableCloverHotkeys</key>
@@ -143,7 +171,7 @@
 		<key>Secure</key>
 		<false/>
 		<key>Timeout</key>
-		<integer>3</integer>
+		<integer>5</integer>
 		<key>XMPDetection</key>
 		<string>Yes</string>
 	</dict>
@@ -161,7 +189,9 @@
 				<key>Key</key>
 				<string>name</string>
 				<key>Value</key>
-				<data>I2Rpc3BsYXkA</data>
+				<data>
+				I2Rpc3BsYXkA
+				</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -185,7 +215,9 @@
 				<key>Key</key>
 				<string>class-code</string>
 				<key>Value</key>
-				<data>/////w==</data>
+				<data>
+				/////w==
+				</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -197,7 +229,9 @@
 				<key>Key</key>
 				<string>name</string>
 				<key>Value</key>
-				<data>I2Rpc3BsYXkA</data>
+				<data>
+				I2Rpc3BsYXkA
+				</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -221,7 +255,9 @@
 				<key>Key</key>
 				<string>class-code</string>
 				<key>Value</key>
-				<data>/////w==</data>
+				<data>
+				/////w==
+				</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -233,7 +269,9 @@
 				<key>Key</key>
 				<string>vendor-id</string>
 				<key>Value</key>
-				<data>//8AAA==</data>
+				<data>
+				//8AAA==
+				</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -245,7 +283,9 @@
 				<key>Key</key>
 				<string>device-id</string>
 				<key>Value</key>
-				<data>//8AAA==</data>
+				<data>
+				//8AAA==
+				</data>
 			</dict>
 		</array>
 		<key>Audio</key>
@@ -267,27 +307,45 @@
 				<key>#framebuffer-con0-enable</key>
 				<integer>1</integer>
 				<key>#framebuffer-con0-type</key>
-				<data>AAQAAA==</data>
+				<data>
+				AAQAAA==
+				</data>
 				<key>AAPL,ig-platform-id</key>
-				<data>AAAbGQ==</data>
+				<data>
+				AAAbGQ==
+				</data>
 				<key>device-id</key>
-				<data>FhkAAA==</data>
+				<data>
+				FhkAAA==
+				</data>
 				<key>framebuffer-con1-enable</key>
 				<integer>1</integer>
 				<key>framebuffer-con1-flags</key>
-				<data>hwEAAA==</data>
+				<data>
+				hwEAAA==
+				</data>
 				<key>framebuffer-con1-pipe</key>
-				<data>EgAAAA==</data>
+				<data>
+				EgAAAA==
+				</data>
 				<key>framebuffer-con1-type</key>
-				<data>AAgAAA==</data>
+				<data>
+				AAgAAA==
+				</data>
 				<key>framebuffer-fbmem</key>
-				<data>AACQAA==</data>
+				<data>
+				AACQAA==
+				</data>
 				<key>framebuffer-patch-enable</key>
 				<integer>1</integer>
 				<key>framebuffer-stolenmem</key>
-				<data>AAAwAQ==</data>
+				<data>
+				AAAwAQ==
+				</data>
 				<key>framebuffer-unifiedmem</key>
-				<data>AAAAgA==</data>
+				<data>
+				AAAAgA==
+				</data>
 				<key>hda-gfx</key>
 				<string>onboard-1</string>
 			</dict>
@@ -296,7 +354,7 @@
 				<key>hda-gfx</key>
 				<string>onboard-1</string>
 				<key>layout-id</key>
-				<integer>31</integer>
+				<integer>3</integer>
 			</dict>
 		</dict>
 		<key>USB</key>
@@ -333,6 +391,16 @@
 					<key>Type</key>
 					<string>OSXRecovery</string>
 				</dict>
+				<dict>
+					<key>Disabled</key>
+					<false/>
+					<key>Ignore</key>
+					<false/>
+					<key>Title</key>
+					<string>Windows</string>
+					<key>Type</key>
+					<string>Windows</string>
+				</dict>
 			</array>
 		</dict>
 		<key>Hide</key>
@@ -361,14 +429,19 @@
 		<key>ScreenResolution</key>
 		<string>1366x768</string>
 		<key>Theme</key>
-		<string>Clovy</string>
+		<string>minimal</string>
 	</dict>
 	<key>Graphics</key>
 	<dict>
 		<key>EDID</key>
 		<dict>
 			<key>Custom</key>
-			<data>AP///////wAGEPKcAAAAABoVAQSVGg54Au8Fl1dUkiciUFQAAAABAQEBAQEBAQEBAQEBAQEB2h1W4lAAIDBELUcAWMEQAAAYAAAA/ABDb2xvciBMQ0QKICAgAAAA/gBDTU4KICAgICAgICAgAAAA/gBOMTU2QkdBLUVBMgogAA==</data>
+			<data>
+			AP///////wAGEPKcAAAAABoVAQSVGg54Au8Fl1dUkiciUFQAAAAB
+			AQEBAQEBAQEBAQEBAQEB2h1W4lAAIDBELUcAWMEQAAAYAAAA/ABD
+			b2xvciBMQ0QKICAgAAAA/gBDTU4KICAgICAgICAgAAAA/gBOMTU2
+			QkdBLUVBMgogAA==
+			</data>
 			<key>Inject</key>
 			<true/>
 			<key>ProductID</key>
@@ -412,9 +485,13 @@
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>ILniAAAADzA=</data>
+				<data>
+				ILniAAAADzA=
+				</data>
 				<key>Replace</key>
-				<data>ILniAAAAkJA=</data>
+				<data>
+				ILniAAAAkJA=
+				</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -422,42 +499,54 @@
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>igKEwHRC</data>
+				<data>
+				igKEwHRC
+				</data>
 				<key>MatchOS</key>
 				<string>10.14.x</string>
 				<key>Replace</key>
-				<data>igKEwOtC</data>
+				<data>
+				igKEwOtC
+				</data>
 			</dict>
 		</array>
 		<key>KextsToPatch</key>
 		<array>
 			<dict>
 				<key>Comment</key>
+				<string>AirPo﻿rtBrcm4360 ﻿- fcvo﻿﻿</string>
+				<key>Disabled</key>
+				<false/>
+				<key>Find</key>
+				<data>
+				gflSqgAAdSk=
+				</data>
+				<key>InfoPlistPatch</key>
+				<false/>
+				<key>Name</key>
+				<string>com.apple.driver.AirPort.Brcm4360</string>
+				<key>Replace</key>
+				<data>
+				gflSqgAAZpA=
+				</data>
+			</dict>
+			<dict>
+				<key>Comment</key>
 				<string>Remove 15 port limit completely 10.14 B2</string>
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>g/sPD4MDBQAA</data>
+				<data>
+				g/sPD4MDBQAA
+				</data>
 				<key>InfoPlistPatch</key>
 				<false/>
 				<key>Name</key>
 				<string>com.apple.driver.usb.AppleUSBXHCI</string>
 				<key>Replace</key>
-				<data>g/saD4MDBQAA</data>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string>Enable TRIM for SSD</string>
-				<key>Disabled</key>
-				<false/>
-				<key>Find</key>
-				<data>AEFQUExFIFNTRAA=</data>
-				<key>InfoPlistPatch</key>
-				<false/>
-				<key>Name</key>
-				<string>com.apple.iokit.IOAHCIBlockStorage</string>
-				<key>Replace</key>
-				<data>AAAAAAAAAAAAAAA=</data>
+				<data>
+				g/saD4MDBQAA
+				</data>
 			</dict>
 		</array>
 	</dict>
