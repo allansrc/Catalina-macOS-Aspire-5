@@ -1,33 +1,35 @@
-
-# 
- # Acer Aspire A515-51G 
+#
+# Acer Aspire A515-51G
 
 ### >>>: Disclamer (updater)
-* This branch is a pre-build for opencore and BigSur (11.0), so if you use **master branch** You'll need:
-* * update Clover to 5122 or newer,
-* * boot from "***pre boot***" on Clover. To do that, press **F3** then select preboot drive,
 
-* If You are on version <= 10.15.6 clone or Download **cat.15.6 branch**
+- This branch is a pre-build for opencore and BigSur (11.0), so if you use **master branch** You'll need:
+- - update Clover to 5122 or newer,
+- - boot from "**_pre boot_**" on Clover. To do that, press **F3** then select preboot drive,
+
+- If You are on version <= 10.15.6 clone or Download **catalina.15.6 branch**
+  <img src="./ss/22.png" width="650">
 
 ### >>>:
-* *CPU* : Intel Core i5-8250U (base 1.6GHz, boost 3.6GHz, syntetic load stable 2.4GHz, cinebench 1200pts)
-* *RAM* : 4GB DDR4 unknown soldered onto the motherboard, 4GB DDR4 ADATA 2400MHz 
-* *GPU* : Intel UHD Graphics 620 2048MB 
-* *dGPU*: NVidia MX130 2048mb (disabled using DSDT patches)
-* *HDD* : Western Digital Blue 01984 1TB
-* *AUD*: : ALC 255 layout-id: 31 / layout-id: 3 (try both and decide which one is more stable for your setup)
-* *WIFI* : Dungle TP-Link 725N
+
+- _CPU_ : Intel Core i5-8250U (base 1.6GHz, boost 3.6GHz, syntetic load stable 2.4GHz, cinebench 1200pts)
+- _RAM_ : 4GB DDR4 unknown soldered onto the motherboard, 4GB DDR4 ADATA 2400MHz
+- _GPU_ : Intel UHD Graphics 620 2048MB
+- _dGPU_: NVidia MX130 2048mb (disabled using DSDT patches)
+- _HDD_ : Western Digital Blue 01984 1TB
+- _AUD_: : ALC 255 layout-id: 31 / layout-id: 3 (try both and decide which one is more stable for your setup)
+- _WIFI_ : Dungle TP-Link 725N
 
 ### what is not working:
 
 1. Wi-Fi card (You will need to replace it to the oe that's compatibile - DW1560 will do.)
 2. OOB combojack ([FIX AVAILABLE](https://github.com/hackintosh-stuff/ComboJack))
- Note: If you want to use combojack and only internal mic - use layout 3. If you want to use headset use layout 31.
+    Note: If you want to use combojack and only internal mic - use layout 3. If you want to use headset use layout 31.
+
 
 ### WARNINGS:
 
-* Default Wifi card **DOES NOT** work under MacOS and will never do. Bluetooth might work - but it's power managament is not supported, so you are stuck with always on BT.
-
+- Default Wifi card **DOES NOT** work under MacOS and will never do. Bluetooth might work - but it's power managament is not supported, so you are stuck with always on BT.
 
 ### Post installation
 
@@ -42,6 +44,7 @@ $ sudo trimforce enable
 ## !After installing clover rebuild kext caches and kernel cache then!
 
 ### reboot and enjoy!
+
 ### Credits:
 
 [Base Mojave EFI Fold](https://github.com/h-okon/Acer-Aspire-A515-Hackintosh)
