@@ -1,5 +1,4 @@
 #
-
 # Acer Aspire A515-51G
 
 ### >>>: Disclamer (updater)
@@ -25,7 +24,8 @@
 
 1. Wi-Fi card (You will need to replace it to the oe that's compatibile - DW1560 will do.)
 2. OOB combojack ([FIX AVAILABLE](https://github.com/hackintosh-stuff/ComboJack))
-   Note: If you want to use combojack and only internal mic - use layout 3. If you want to use headset use layout 31.
+    Note: If you want to use combojack and only internal mic - use layout 3. If you want to use headset use layout 31.
+
 
 ### WARNINGS:
 
