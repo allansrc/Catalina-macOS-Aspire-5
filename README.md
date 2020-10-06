@@ -1,7 +1,14 @@
 
 # 
  # Acer Aspire A515-51G 
- 
+
+### >>>: Disclamer (updater)
+* This branch is a pre-build for opencore and BigSur (11.0), so if you use **master branch** You'll need:
+* * update Clover to 5122 or newer,
+* * boot from "***pre boot***" on Clover. To do that, press **F3** then select preboot drive,
+
+* If You are on version <= 10.15.6 clone or Download **cat.15.6 branch**
+
 ### >>>:
 * *CPU* : Intel Core i5-8250U (base 1.6GHz, boost 3.6GHz, syntetic load stable 2.4GHz, cinebench 1200pts)
 * *RAM* : 4GB DDR4 unknown soldered onto the motherboard, 4GB DDR4 ADATA 2400MHz 
@@ -15,7 +22,7 @@
 
 1. Wi-Fi card (You will need to replace it to the oe that's compatibile - DW1560 will do.)
 2. OOB combojack ([FIX AVAILABLE](https://github.com/hackintosh-stuff/ComboJack))
- Note: If you want to use combojack and only internal mic - use layout 3. If you want to use headset use layout 31. Layout 31 is yet not well supported and undefined behaviours occur (because combojack is designed for layout 71)
+ Note: If you want to use combojack and only internal mic - use layout 3. If you want to use headset use layout 31.
 
 ### WARNINGS:
 
@@ -24,7 +31,7 @@
 
 ### Post installation
 
-First things first, if you are using an SSD make sure to enable the TRIM support:
+If you are using an SSD make sure to enable the TRIM support:
 
 ```
 
@@ -32,7 +39,8 @@ $ sudo trimforce enable
 
 ```
 
-After installing clover rebuild kext caches and kernel cache then
+## !After installing clover rebuild kext caches and kernel cache then!
+
 ### reboot and enjoy!
 ### Credits:
 
